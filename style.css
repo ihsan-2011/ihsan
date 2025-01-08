@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgba(80, 16, 16, 0.792) ;
+}
+h3{
+    color: antiquewhite;
+    text-align: center;
+    size: 520px;
+    margin: 30px;
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+button{
+    color: beige;
+    size: 500;
+    margin-left: 47%;
+    background-color: bisque;
+    font-size: medium;
+    
+}
+a{
+    text-align: center;
+}
+div{
+    margin-top: 15%;
+}
+.rubik-vinyl-regular {
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
